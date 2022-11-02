@@ -2,6 +2,7 @@
 # JavaScript Bootstrap (base / project starter)
 
 This is a repository intended to serve as a starting point if you want to bootstrap a project in modern vanilla JavaScript.
+
 Live app: https://mosvirs.github.io/countdown-timer-festivities/
 ## Features
 
