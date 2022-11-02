@@ -1,0 +1,43 @@
+{
+    "festivities":[
+        {
+            "name":"Hallowen",
+            "start": "2022/10/31",
+            "end": "2022/10/31",
+            "theme":{
+                "image": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "colorFont": "#ffffff",
+                "firstColor":"#8d2e99",
+                "secondColor":"#dba505",
+                "thirdColor":"#ff7100",
+                "fourthColor":"#ff7100"
+            }
+        },
+        {
+            "name":"Christmas",
+            "start": "2022/12/25",
+            "end": "2022/12/25",
+            "theme":{
+                "image":"https://images.unsplash.com/photo-1482517967863-00e15c9b44be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "colorFont": "#ffffff",
+                "firstColor":"#F5624D",
+                "secondColor":"#CC231E",
+                "thirdColor":"#34A65F",
+                "fourthColor":"#0F8A5F"
+            }
+        },
+        {
+            "name":"New Year",
+            "start": "2023/12/1",
+            "end": "2023/12/1",
+            "theme":{
+                "image":"https://images.unsplash.com/photo-1467810563316-b5476525c0f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+                "colorFont": "#ffffff",
+                "firstColor":"#E7F3FC",
+                "secondColor":"#D5CF59",
+                "thirdColor":"#FFB403",
+                "fourthColor":"#FFDD00"
+            }
+        }
+    ]
+}
