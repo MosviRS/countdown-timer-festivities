@@ -1,9 +1,35 @@
 {
     "festivities":[
         {
+            "name":"Mother's day",
+            "start": "2023/03/10",
+            "end": "2023/03/10",
+            "theme":{
+                "image": "https://cdn2.cocinadelirante.com/sites/default/files/images/2021/06/datos-sobre-rosas-roschetzkyistockphoto.jpg",
+                "colorFont": "#ffffff",
+                "firstColor":"#c51010",
+                "secondColor":"#ba3ebc",
+                "thirdColor":"#8f154a",
+                "fourthColor":"#e14f4f"
+            } 
+        },
+        {
+            "name":"Pascua",
+            "start": "2023/04/9",
+            "end": "2023/04/9",
+            "theme":{
+                "image": "https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFCu%C3%A1l-es-el-origen-de-los-huevos-de-Pascua.jpg",
+                "colorFont": "#ffffff",
+                "firstColor":"#34EC71",
+                "secondColor":"#dba505",
+                "thirdColor":"#ff7100",
+                "fourthColor":"#ff7100"
+            } 
+        },
+        {
             "name":"Hallowen",
-            "start": "2022/10/31",
-            "end": "2022/10/31",
+            "start": "2023/10/31",
+            "end": "2023/10/31",
             "theme":{
                 "image": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
                 "colorFont": "#ffffff",
@@ -15,8 +41,8 @@
         },
         {
             "name":"Christmas",
-            "start": "2022/12/25",
-            "end": "2022/12/25",
+            "start": "2023/12/25",
+            "end": "2023/12/25",
             "theme":{
                 "image":"https://images.unsplash.com/photo-1482517967863-00e15c9b44be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
                 "colorFont": "#ffffff",
